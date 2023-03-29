@@ -7,4 +7,4 @@ yup, that's a test repository
 
 Шестакова
 
-Группа ЭН!-25
+Группа ЭН1-25
